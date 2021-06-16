@@ -2,7 +2,7 @@
 
 ## 🐱 About
 
-My name is Boris Chernyshov, I'm 21 and I'm a front-end developer. I'm from Russia, living in Moscow and currently getting a master's degree in software architecture at [<img src="https://eng.mephi.ru/content/public/favicon.ico" width="12" height="12"> Moscow Engineering Physics Institute](https://eng.mephi.ru/).
+My name is Boris Chernyshov, I'm 21 and I'm a front-end developer.
 
 I graduated with a bachelor's degree in software engineering at [<img src="https://uni-dubna.ru/favicon.png" width="12" height="12"> Dubna State University](https://uni-dubna.ru/) in 2021 with praise.
 ## 🔧 Technologies & Tools
