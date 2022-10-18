@@ -50,5 +50,5 @@ I graduated with a bachelor's degree in software engineering at [<img src="https
 ## 📞 Contacts
 [![](https://img.shields.io/badge/send%20message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fvrrrn)
 [![](https://img.shields.io/badge/write%20e--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boris.chernystrand@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/boris-chernyshov-31a63a251/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-chernyshov-31a63a251)
 
