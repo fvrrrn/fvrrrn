@@ -1,5 +1,7 @@
 # Hi there, I'm Boris 👋
 
+And I'd really appreciate if you'd let me change username from fvrrrn to fvrn
+
 ## 🐱 About
 
 My name is Boris Chernyshov, I'm 24 and I'm looking for a machine learning internship.
