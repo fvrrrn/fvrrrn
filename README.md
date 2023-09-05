@@ -2,10 +2,9 @@
 
 ## 🐱 About
 
-My name is Boris Chernyshov, I'm 24 and I'm looking for a machine learning internship.
+My name is Boris Chernyshov, I'm 23 and I'm a front-end developer.
 
-I graduated with a bachelor's degree in software engineering at [<img src="https://uni-dubna.ru/favicon.png" width="12" height="12"> Dubna State University](https://uni-dubna.ru/) in 2021 with praise, during uni years I've been doing lots of stuff: making games, working as a backend dev, helping out fellow studens with C, C++, C#, Python etc. Then I started out as a frontend dev to create myself a financial support which then, in 2023, allowed me to continue studying machine learning and related topics.
-
+I graduated with a bachelor's degree in software engineering at [<img src="https://uni-dubna.ru/favicon.png" width="12" height="12"> Dubna State University](https://uni-dubna.ru/) in 2021 with praise.
 ## 🔧 Technologies & Tools
 
 ### Currently working with:
